@@ -14,3 +14,21 @@ for ch in text:
     if ch in 'aeiouAEIOU':
         count+=1
 print(count)
+
+
+
+
+# def countVowels(s):
+#     """
+#     s: str
+#     Returns: int
+#     """
+#     # TODO: Implement your solution here
+#     pass
+#     vowel='aeiouAEIOU'
+#     count =0
+#     for ch in s:
+#         if ch in vowel:
+#             count+=1
+#     return count
+#     print(countVowels("Hello World"))
